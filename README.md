@@ -2,8 +2,7 @@
 
 # <a id="table-of-contents">Table of Contents
 
-* [Shapley Value Methods for Attribution Modeling in Online Advertising]
-  (#shapley-value-methods-for-attribution-modeling-in-online-advertising)
+* [Shapley Value Methods for Attribution Modeling in Online Advertising](#shapley-value-methods-for-attribution-modeling-in-online-advertising)
   
   
 <br>
@@ -12,9 +11,7 @@
 
 
 ### 
-<a id="#shapley-value-methods-for-attribution-modeling-in-online-advertising">
-  Shapley Value Methods for Attribution Modeling in Online Advertising
-</a>
+<a id="#shapley-value-methods-for-attribution-modeling-in-online-advertising">Shapley Value Methods for Attribution Modeling in Online Advertising</a>
 [[back to top]](#table-of-contents)
 
 * [Introduction]()
@@ -22,10 +19,10 @@
   * [Kitts, Wei, Au, Powter, Burdick, (2010) - Attribution of Conversion Events to Multi-channel Media]()
   * [Rentola (2014) - Analyses of Online Advertising Performance Using Attribution Modeling]()
   * [Sparkman, Locander (1980) - Attribution Theory and Advertising Effectiveness]()  
-  <br>
+  
   * [Dalessandro, Perlich, Stitelman, Provost (2012) - Causally Motivated Attribution for Online Advertising]()
   * [Shao, Li (2011) - Data-driven Multi-touch Attribution Models]()
-  <br>
+  
   * [Abhishek, Fader, Hosanagar, (2012) - Media Exposure through the Funnel: A Model of Multi-Stage Attribution]()
   * [Anderl, Becker, v. Wangenheim, Schumann, (2013) - Putting Attribution to Work: A Graph-Based Framework for Attribution Modeling in Managerial Practice]()
   * [Berman (2013) - Beyond the Last Touch: Attribution in Online Advertising]()
@@ -38,7 +35,7 @@
   * [Roth (1988) - The Shapley Value: Essays in Honor of Lloyd S. Shapley]()
   * [Shapley (1952) - A value for n-person games]()
   * [Winter (2002) - The Shapley value (Handbook of Game Theory with Economic Applications)]()
-  <br>
+  
   * [Ma, Chiu, Lui, Misra, Rubenstein (2010) - Internet Economics: The use of Shapley value for ISP settlement]()
   * [O’Brien, Gamal, Rajagopal (2015) - Shapley Value Estimation for Compensation of Participants in Demand Response Programs]()
   * [Song, Seol, Park (2016) - A patent portfolio-based approach for assessing potential R&D partners: An application of the Shapley value]()
