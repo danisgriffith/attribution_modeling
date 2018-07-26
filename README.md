@@ -12,6 +12,7 @@
 
 ### 
 <a id="#shapley-value-methods-for-attribution-modeling-in-online-advertising">Shapley Value Methods for Attribution Modeling in Online Advertising</a>
+<br>
 [[back to top]](#table-of-contents)
 
 * [Introduction]()
@@ -28,7 +29,7 @@
   * [Berman (2013) - Beyond the Last Touch: Attribution in Online Advertising]()
   * [Li, Kannan (2013) - Attributing Conversions in a Multichannel Online Marketing Environment: An Empirical Model and a Field Experiment]()
   * [Tucker (2012. Implications of Improved Attribution and Measurability for Antitrust and Privacy in Online Advertising Markets]()
-  * [Wiesel, Pauwels, Arts (2011) - Practice Prize Paper —Marketing’s Profit Impact: Quantifying Online and Off-line Funnel Progression]()
+  * [Wiesel, Pauwels, Arts (2011) - Marketing’s Profit Impact: Quantifying Online and Off-line Funnel Progression]()
   * [Yadagiri, Saini, Sinha (2015) - A Non-parametric Approach to the Multi-channel Attribution Problem]()
   * [Zhang, Wei, Ren (2014) - Multi-touch Attribution in Online Advertising with Survival Theory]()
   * [Osborne, Rubinstein (1994) - A course in game theory]()
